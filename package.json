@@ -14,8 +14,6 @@
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "axios": "^1.6.8",
-    "eslint": "^9.0.0",
-    "eslint-import-resolver-typescript": "^3.6.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.1.0",
@@ -47,8 +45,6 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "error": "^10.4.0",
-    "eslint-config-standard-with-typescript": "^43.0.1",
-    "eslint-plugin-react": "^7.34.1"
+    "error": "^10.4.0"
   }
 }
